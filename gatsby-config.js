@@ -5,6 +5,7 @@ require(`dotenv`).config({
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
+  pathPrefix: "/thelucidlens.com",
   siteMetadata: {
     siteTitle: `the lucid lens`,
     siteHeadline: `the lucid lens made with ❤️ by stephen harrison`
