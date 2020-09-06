@@ -1,0 +1,120 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/66b32394d72d6541d7619afa7e37fa582365d3ce-734a4d865bede7b94651.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-projects-query-tsx-fe86a4b1b0c54e7cae72.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-c0fc79c3ff28f86eb3fd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-7c31e2436cade51cbcda.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-d0d274b21e0b2d581da5.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-a576ae5ab153fa4a7c27.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-ad94361cf4eca1e4d5e9.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/thelucidlens.com/
+  Link: </thelucidlens.com/webpack-runtime-d0d274b21e0b2d581da5.js>; rel=preload; as=script
+  Link: </thelucidlens.com/framework-a576ae5ab153fa4a7c27.js>; rel=preload; as=script
+  Link: </thelucidlens.com/app-ad94361cf4eca1e4d5e9.js>; rel=preload; as=script
+  Link: </thelucidlens.com/66b32394d72d6541d7619afa7e37fa582365d3ce-734a4d865bede7b94651.js>; rel=preload; as=script
+  Link: </thelucidlens.com/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-projects-query-tsx-fe86a4b1b0c54e7cae72.js>; rel=preload; as=script
+  Link: </thelucidlens.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </thelucidlens.com/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/thelucidlens.com/corner
+  Link: </thelucidlens.com/webpack-runtime-d0d274b21e0b2d581da5.js>; rel=preload; as=script
+  Link: </thelucidlens.com/framework-a576ae5ab153fa4a7c27.js>; rel=preload; as=script
+  Link: </thelucidlens.com/app-ad94361cf4eca1e4d5e9.js>; rel=preload; as=script
+  Link: </thelucidlens.com/66b32394d72d6541d7619afa7e37fa582365d3ce-734a4d865bede7b94651.js>; rel=preload; as=script
+  Link: </thelucidlens.com/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-c0fc79c3ff28f86eb3fd.js>; rel=preload; as=script
+  Link: </thelucidlens.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </thelucidlens.com/page-data/corner/page-data.json>; rel=preload; as=fetch; crossorigin
+/thelucidlens.com/curve
+  Link: </thelucidlens.com/webpack-runtime-d0d274b21e0b2d581da5.js>; rel=preload; as=script
+  Link: </thelucidlens.com/framework-a576ae5ab153fa4a7c27.js>; rel=preload; as=script
+  Link: </thelucidlens.com/app-ad94361cf4eca1e4d5e9.js>; rel=preload; as=script
+  Link: </thelucidlens.com/66b32394d72d6541d7619afa7e37fa582365d3ce-734a4d865bede7b94651.js>; rel=preload; as=script
+  Link: </thelucidlens.com/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-c0fc79c3ff28f86eb3fd.js>; rel=preload; as=script
+  Link: </thelucidlens.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </thelucidlens.com/page-data/curve/page-data.json>; rel=preload; as=fetch; crossorigin
+/thelucidlens.com/desert
+  Link: </thelucidlens.com/webpack-runtime-d0d274b21e0b2d581da5.js>; rel=preload; as=script
+  Link: </thelucidlens.com/framework-a576ae5ab153fa4a7c27.js>; rel=preload; as=script
+  Link: </thelucidlens.com/app-ad94361cf4eca1e4d5e9.js>; rel=preload; as=script
+  Link: </thelucidlens.com/66b32394d72d6541d7619afa7e37fa582365d3ce-734a4d865bede7b94651.js>; rel=preload; as=script
+  Link: </thelucidlens.com/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-c0fc79c3ff28f86eb3fd.js>; rel=preload; as=script
+  Link: </thelucidlens.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </thelucidlens.com/page-data/desert/page-data.json>; rel=preload; as=fetch; crossorigin
+/thelucidlens.com/flower
+  Link: </thelucidlens.com/webpack-runtime-d0d274b21e0b2d581da5.js>; rel=preload; as=script
+  Link: </thelucidlens.com/framework-a576ae5ab153fa4a7c27.js>; rel=preload; as=script
+  Link: </thelucidlens.com/app-ad94361cf4eca1e4d5e9.js>; rel=preload; as=script
+  Link: </thelucidlens.com/66b32394d72d6541d7619afa7e37fa582365d3ce-734a4d865bede7b94651.js>; rel=preload; as=script
+  Link: </thelucidlens.com/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-c0fc79c3ff28f86eb3fd.js>; rel=preload; as=script
+  Link: </thelucidlens.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </thelucidlens.com/page-data/flower/page-data.json>; rel=preload; as=fetch; crossorigin
+/thelucidlens.com/leaf
+  Link: </thelucidlens.com/webpack-runtime-d0d274b21e0b2d581da5.js>; rel=preload; as=script
+  Link: </thelucidlens.com/framework-a576ae5ab153fa4a7c27.js>; rel=preload; as=script
+  Link: </thelucidlens.com/app-ad94361cf4eca1e4d5e9.js>; rel=preload; as=script
+  Link: </thelucidlens.com/66b32394d72d6541d7619afa7e37fa582365d3ce-734a4d865bede7b94651.js>; rel=preload; as=script
+  Link: </thelucidlens.com/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-c0fc79c3ff28f86eb3fd.js>; rel=preload; as=script
+  Link: </thelucidlens.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </thelucidlens.com/page-data/leaf/page-data.json>; rel=preload; as=fetch; crossorigin
+/thelucidlens.com/line
+  Link: </thelucidlens.com/webpack-runtime-d0d274b21e0b2d581da5.js>; rel=preload; as=script
+  Link: </thelucidlens.com/framework-a576ae5ab153fa4a7c27.js>; rel=preload; as=script
+  Link: </thelucidlens.com/app-ad94361cf4eca1e4d5e9.js>; rel=preload; as=script
+  Link: </thelucidlens.com/66b32394d72d6541d7619afa7e37fa582365d3ce-734a4d865bede7b94651.js>; rel=preload; as=script
+  Link: </thelucidlens.com/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-c0fc79c3ff28f86eb3fd.js>; rel=preload; as=script
+  Link: </thelucidlens.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </thelucidlens.com/page-data/line/page-data.json>; rel=preload; as=fetch; crossorigin
+/thelucidlens.com/shape
+  Link: </thelucidlens.com/webpack-runtime-d0d274b21e0b2d581da5.js>; rel=preload; as=script
+  Link: </thelucidlens.com/framework-a576ae5ab153fa4a7c27.js>; rel=preload; as=script
+  Link: </thelucidlens.com/app-ad94361cf4eca1e4d5e9.js>; rel=preload; as=script
+  Link: </thelucidlens.com/66b32394d72d6541d7619afa7e37fa582365d3ce-734a4d865bede7b94651.js>; rel=preload; as=script
+  Link: </thelucidlens.com/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-c0fc79c3ff28f86eb3fd.js>; rel=preload; as=script
+  Link: </thelucidlens.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </thelucidlens.com/page-data/shape/page-data.json>; rel=preload; as=fetch; crossorigin
+/thelucidlens.com/stone
+  Link: </thelucidlens.com/webpack-runtime-d0d274b21e0b2d581da5.js>; rel=preload; as=script
+  Link: </thelucidlens.com/framework-a576ae5ab153fa4a7c27.js>; rel=preload; as=script
+  Link: </thelucidlens.com/app-ad94361cf4eca1e4d5e9.js>; rel=preload; as=script
+  Link: </thelucidlens.com/66b32394d72d6541d7619afa7e37fa582365d3ce-734a4d865bede7b94651.js>; rel=preload; as=script
+  Link: </thelucidlens.com/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-c0fc79c3ff28f86eb3fd.js>; rel=preload; as=script
+  Link: </thelucidlens.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </thelucidlens.com/page-data/stone/page-data.json>; rel=preload; as=fetch; crossorigin
+/thelucidlens.com/texture
+  Link: </thelucidlens.com/webpack-runtime-d0d274b21e0b2d581da5.js>; rel=preload; as=script
+  Link: </thelucidlens.com/framework-a576ae5ab153fa4a7c27.js>; rel=preload; as=script
+  Link: </thelucidlens.com/app-ad94361cf4eca1e4d5e9.js>; rel=preload; as=script
+  Link: </thelucidlens.com/66b32394d72d6541d7619afa7e37fa582365d3ce-734a4d865bede7b94651.js>; rel=preload; as=script
+  Link: </thelucidlens.com/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-c0fc79c3ff28f86eb3fd.js>; rel=preload; as=script
+  Link: </thelucidlens.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </thelucidlens.com/page-data/texture/page-data.json>; rel=preload; as=fetch; crossorigin
+/thelucidlens.com/tree
+  Link: </thelucidlens.com/webpack-runtime-d0d274b21e0b2d581da5.js>; rel=preload; as=script
+  Link: </thelucidlens.com/framework-a576ae5ab153fa4a7c27.js>; rel=preload; as=script
+  Link: </thelucidlens.com/app-ad94361cf4eca1e4d5e9.js>; rel=preload; as=script
+  Link: </thelucidlens.com/66b32394d72d6541d7619afa7e37fa582365d3ce-734a4d865bede7b94651.js>; rel=preload; as=script
+  Link: </thelucidlens.com/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-c0fc79c3ff28f86eb3fd.js>; rel=preload; as=script
+  Link: </thelucidlens.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </thelucidlens.com/page-data/tree/page-data.json>; rel=preload; as=fetch; crossorigin
+/thelucidlens.com/offline-plugin-app-shell-fallback/
+  Link: </thelucidlens.com/webpack-runtime-d0d274b21e0b2d581da5.js>; rel=preload; as=script
+  Link: </thelucidlens.com/framework-a576ae5ab153fa4a7c27.js>; rel=preload; as=script
+  Link: </thelucidlens.com/app-ad94361cf4eca1e4d5e9.js>; rel=preload; as=script
+  Link: </thelucidlens.com/component---cache-caches-gatsby-plugin-offline-app-shell-js-7c31e2436cade51cbcda.js>; rel=preload; as=script
+  Link: </thelucidlens.com/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </thelucidlens.com/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
